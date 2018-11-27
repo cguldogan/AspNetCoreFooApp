@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using FooServiceLayer.Contracts;
-using FooServiceLayer.Services;
+﻿using FooServiceLayer.Contracts;
 using Microsoft.Extensions.Configuration;
 
 namespace FooBusinessLayer

@@ -1,13 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using FooBusinessLayer;
-using FooServiceLayer.Contracts;
-using Microsoft.AspNetCore.Http;
+﻿using FooBusinessLayer;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Routing;
-using Microsoft.Extensions.Configuration;
 
 namespace AspNetCoreFooAPI.Controllers
 {
